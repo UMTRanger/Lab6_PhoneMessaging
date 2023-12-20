@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab6_PhoneCallDial</string>
+    <string name="contact_name">Jane Doe</string>
+    <string name="number_to_call">14155551212</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="enter_phone">Enter a phone number</string>
+    <string name="dial_number">"Phone Status: DIALING: "</string>
+    <string name="telephony_enabled">Telephony is enabled</string>
+    <string name="telephony_not_enabled">TELEPHONY NOT ENABLED!</string>
+    <string name="phone_disabled">Phone calling disabled</string>
+    <string name="failure_permission">Failure to obtain permission!</string>
+    <string name="permission_not_granted">PERMISSION NOT GRANTED!</string>
+    <string name="enter_message_here">Enter message here</string>
+    <string name="send_a_message">Send a message</string>
+</resources>
